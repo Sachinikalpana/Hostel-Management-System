@@ -23,9 +23,9 @@ To test the different panels, use the following login details:
   * Password: `Warden123!`
 
 * **Security:**
-  *Username: `security001@cmb.ac.lk`
-  *Password: `Security123!`
+  * Username: `security001@cmb.ac.lk`
+  * Password: `Security123!`
 
 * **Student:**
-  *Username: `student001@cmb.ac.lk`
-  *Password: `Student123!`
+  * Username: `student001@cmb.ac.lk`
+  * Password: `Student123!`
